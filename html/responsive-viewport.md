@@ -1,5 +1,5 @@
 ##Responsive viewport
-To make a website fit to the width of the screen (rather than defaulting to a zoomed-out view), use the `viewport` meta tag with 
+To make a website fit to the width of the screen (rather than defaulting to a zoomed-out view), use the `viewport` meta tag
 
 `<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />`
 
