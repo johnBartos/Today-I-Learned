@@ -12,3 +12,4 @@ This is where I put stuff I learned and want to remember
 
 # JS
 - [Name resolution order] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/hoisting-precedence.md)
+- [How `this` is assigned] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/this-assignment.md)
