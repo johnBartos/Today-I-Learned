@@ -15,3 +15,4 @@ This is where I put stuff I learned and want to remember
 - [How `this` is assigned] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/this-assignment.md)
 - [`let` re-declaration as a loop initializer] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/let-loop.md)
 - [`Promise` pass-through] (https://github.com/johnBartos/Today-I-Learned/new/master/js)
+- [ES6 `export` from file] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/es6-export-from-file.md)
