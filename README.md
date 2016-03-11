@@ -16,3 +16,4 @@ This is where I put stuff I learned and want to remember
 - [`let` re-declaration as a loop initializer] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/let-loop.md)
 - [`Promise` pass-through] (https://github.com/johnBartos/Today-I-Learned/new/master/js)
 - [ES6 `export` from file] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/es6-export-from-file.md)
+- [`Array.prototype.reduce` as a state machine] (https://github.com/johnBartos/Today-I-Learned/blob/master/js/array-reduce-state-machine.md)
